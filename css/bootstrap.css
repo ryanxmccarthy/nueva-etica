@@ -221,6 +221,7 @@ a {
 
 a #logo {
   font-size: 30px;
+  padding-top: 10px;
 }
 
 a:hover {
